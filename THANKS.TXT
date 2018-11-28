@@ -9,6 +9,7 @@ Without their support this would have remained a small hobby project.
 
 I hope that everyone enjoys this shield and look forward to seeing all the projects people create using them.
 
+Lucas Amorim (not really, just learning git branching)
 Pen-Yuan Hsing
 Devin Hales
 martin
